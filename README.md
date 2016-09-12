@@ -12,4 +12,4 @@ Recuerda:
 
 A pesar de que no es obligatorio entregar el Análisis y los algoritmos, te sugiero que los hagas en papel para que resuelvas con mayor facilidad los problemas.
 
-![Imagen Top-Down](https://lh4.googleusercontent.com/I4iuIzf95H5C3yRUDcFwS-oPsNaR_H_bLompmJyOVWX-s78ieR9uPQksv8V1CwaR7UYIvt8nhQyFz5s=w1363-h801)
+![Imagen Top-Down](https://lh5.googleusercontent.com/GpHZlCTJaNR4Y2-OOhfdAa3ITWR33J1qtWxOcL478ZpduyeJRGsUiXZQyXTI2jr8qGr5FH7CZ4wOVdc=w1363-h755)
