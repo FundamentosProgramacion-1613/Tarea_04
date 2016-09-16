@@ -9,7 +9,7 @@
 def obtenerIMC(masa,estatura):
     imc=masa/(estatura**2)       
     return imc
-#Definimos nuestra función para revisar el imc
+#Definimos nuestra función para revisar el IMC
 def analizarIMC(imc):
     if (0<=imc<18.5):
         resultado="Bajo de peso"
@@ -31,4 +31,6 @@ def main():
         print("ERROR: La estatura no puede ser 0")
     else:
         print("ERROR: Los valores deben ser mayores a 0")    
+#Corremos el programa
 main()    
+#Fin    
