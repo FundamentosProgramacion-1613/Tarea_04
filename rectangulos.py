@@ -65,4 +65,6 @@ base: %d
 altura: %d
 área: %d
 perímetro: %d"""%(mayor,base1,altura1,area1,perimetro1,base2,altura2,area2,perimetro2))
+#Corremos el programa
 main()    
+#Fin
