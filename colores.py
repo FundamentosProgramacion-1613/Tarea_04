@@ -26,4 +26,6 @@ def main():
     color2=color2.lower()
     mezcla=mezclarColores(color1,color2)
     print("La combinación de %s y %s da %s"%(color1,color2,mezcla))
+#Corremos el programa
 main()    
+#Fin
