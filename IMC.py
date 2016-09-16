@@ -13,7 +13,7 @@ def main():
 def calcularIMC (peso, altura):
     if altura <= 0:
         return ("Error: pon una altura adecuada")
-    if peso < 0:
+    elif peso < 0:
         return ("Error: pon un peso adecuado")
     else:
         IMC = peso/(altura*altura)
@@ -22,7 +22,7 @@ def calcularIMC (peso, altura):
 def checarIMC(IMC):
     if IMC < 18.5:
         return ("Tienes bajo peso")
-    if IMC >= 18.5 and IMC <= 25:
+    elif IMC >= 18.5 and IMC <= 25:
         return ("Tienes peso normal")
     else:
         return ("Tienes sobrepeso")   
