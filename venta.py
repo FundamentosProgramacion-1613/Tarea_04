@@ -39,4 +39,6 @@ def main():
         Descuento: -%d porciento
         Total:$%.2f
         """%(cantidad,precio,descuento,total))  
+#Corremos el programa
 main()    
+#Fin   
