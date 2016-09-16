@@ -14,7 +14,7 @@ def calcularPrecio (paquetes):
     if paquetes < 0:
         return ("Pon un numero positivo")
     else:
-        elif paquetes < 10:
+        if paquetes < 10:
             descuentos = 0
             precio = paquetes * 1500
             return precio
